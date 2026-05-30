@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tontou fayekou – Gagnez 250 000 FCFA tous les 2 mois</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="top-section">
+        <div class="top-logo">
+            <span class="logo-icon">🎫</span>
+            <span class="logo-text">tontou fayekou</span>
+        </div>
+        <div class="middle-text">
+            bokou si tirage bougni khewal gnari were bou nek
+        </div>
+    </div>
+    <div class="container">
+        <header class="main-header">
+            <div class="header-title">
+                <h1>Gagnez 250 000 FCFA !</h1>
+                <p>10 questions → tickets → tirage tous les 2 mois</p>
+            </div>
+            <div class="ticket-counter">
+                Tickets aujourd'hui : <span id="ticketsToday">0</span> / 5
+            </div>
+        </header>
+
+        <main>
+            <div id="startScreen" class="screen">
+                <button id="startBtn" class="btn btn-primary">Commencer le quiz</button>
+            </div>
+
+            <div id="quizScreen" class="screen hidden">
+                <div class="progress">
+                    <span id="progressText">Question 1/10</span>
+                    <div class="progress-bar">
+                        <div id="progressFill" class="progress-fill"></div>
+                    </div>
+                </div>
+
+                <div class="question-container">
+                    <h2 id="questionText"></h2>
+                    <div id="optionsContainer" class="options"></div>
+                </div>
+            </div>
+
+            <div id="resultScreen" class="screen hidden">
+                <div id="resultMessage" class="result-message"></div>
+                <button id="restartBtn" class="btn btn-primary">Recommencer</button>
+            </div>
+        </main>
+
+        <footer>
+            <p>Prochain tirage: <span id="nextDraw">1er janvier 2025</span></p>
+            <p class="disclaimer">Règlement disponible sur demande</p>
+        </footer>
+    </div>
+
+    <div id="adModal" class="modal hidden">
+        <div class="modal-content">
+            <div class="ad-content">
+                <h3>Regardez cette publicité pour continuer...</h3>
+                <div class="timer" id="adTimer">3</div>
+            </div>
+            <button id="closeAdBtn" class="btn btn-primary" disabled>Fermer</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

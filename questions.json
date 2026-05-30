@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "Quelle est votre tranche d'âge ?",
+    "options": [
+      {"label": "A", "text": "18-25"},
+      {"label": "B", "text": "26-35"},
+      {"label": "C", "text": "36-50"},
+      {"label": "D", "text": "51+"}
+    ]
+  },
+  {
+    "id": 2,
+    "text": "À quelle fréquence achetez-vous en ligne ?",
+    "options": [
+      {"label": "A", "text": "Jamais"},
+      {"label": "B", "text": "Rarement"},
+      {"label": "C", "text": "Souvent"},
+      {"label": "D", "text": "Très souvent"}
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Quelle est votre marque de smartphone préférée ?",
+    "options": [
+      {"label": "A", "text": "Samsung"},
+      {"label": "B", "text": "Apple"},
+      {"label": "C", "text": "Xiaomi"},
+      {"label": "D", "text": "Autre"}
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Utilisez-vous les réseaux sociaux ?",
+    "options": [
+      {"label": "A", "text": "Oui, plusieurs heures/jour"},
+      {"label": "B", "text": "Oui, moins d'une heure"},
+      {"label": "C", "text": "Rarement"},
+      {"label": "D", "text": "Jamais"}
+    ]
+  },
+  {
+    "id": 5,
+    "text": "Quel est votre moyen de paiement le plus utilisé ?",
+    "options": [
+      {"label": "A", "text": "Espèces"},
+      {"label": "B", "text": "Carte bancaire"},
+      {"label": "C", "text": "Mobile money"},
+      {"label": "D", "text": "Virement"}
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Préférez-vous les films ou les séries ?",
+    "options": [
+      {"label": "A", "text": "Films"},
+      {"label": "B", "text": "Séries"},
+      {"label": "C", "text": "Les deux"},
+      {"label": "D", "text": "Aucun"}
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Avez-vous déjà participé à un concours en ligne ?",
+    "options": [
+      {"label": "A", "text": "Oui, plusieurs fois"},
+      {"label": "B", "text": "Oui, une fois"},
+      {"label": "C", "text": "Jamais"},
+      {"label": "D", "text": "Je ne sais pas"}
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Quelle est votre boisson préférée ?",
+    "options": [
+      {"label": "A", "text": "Café"},
+      {"label": "B", "text": "Thé"},
+      {"label": "C", "text": "Jus de fruit"},
+      {"label": "D", "text": "Eau"}
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Combien de temps passez-vous sur internet par jour ?",
+    "options": [
+      {"label": "A", "text": "Moins d'1h"},
+      {"label": "B", "text": "1-3h"},
+      {"label": "C", "text": "3-6h"},
+      {"label": "D", "text": "Plus de 6h"}
+    ]
+  },
+  {
+    "id": 10,
+    "text": "Êtes-vous intéressé par les nouvelles technologies ?",
+    "options": [
+      {"label": "A", "text": "Beaucoup"},
+      {"label": "B", "text": "Moyennement"},
+      {"label": "C", "text": "Peu"},
+      {"label": "D", "text": "Pas du tout"}
+    ]
+  },
+  {
+    "id": 11,
+    "text": "Quel est votre genre de musique préféré ?",
+    "options": [
+      {"label": "A", "text": "Pop"},
+      {"label": "B", "text": "Hip-hop/Rap"},
+      {"label": "C", "text": "Afrobeat"},
+      {"label": "D", "text": "Autre"}
+    ]
+  },
+  {
+    "id": 12,
+    "text": "Combien de repas prenez-vous par jour ?",
+    "options": [
+      {"label": "A", "text": "2"},
+      {"label": "B", "text": "3"},
+      {"label": "C", "text": "4"},
+      {"label": "D", "text": "Plus de 4"}
+    ]
+  },
+  {
+    "id": 13,
+    "text": "Avez-vous un animal de compagnie ?",
+    "options": [
+      {"label": "A", "text": "Oui, un chien"},
+      {"label": "B", "text": "Oui, un chat"},
+      {"label": "C", "text": "Oui, autre animal"},
+      {"label": "D", "text": "Non"}
+    ]
+  },
+  {
+    "id": 14,
+    "text": "Quel est votre sport préféré ?",
+    "options": [
+      {"label": "A", "text": "Football"},
+      {"label": "B", "text": "Basketball"},
+      {"label": "C", "text": "Course à pied"},
+      {"label": "D", "text": "Autre"}
+    ]
+  },
+  {
+    "id": 15,
+    "text": "Combien d'heures dormez-vous par nuit ?",
+    "options": [
+      {"label": "A", "text": "Moins de 6h"},
+      {"label": "B", "text": "6-7h"},
+      {"label": "C", "text": "7-8h"},
+      {"label": "D", "text": "Plus de 8h"}
+    ]
+  },
+  {
+    "id": 16,
+    "text": "Quel type de vacances préférez-vous ?",
+    "options": [
+      {"label": "A", "text": "Plage"},
+      {"label": "B", "text": "Montagne"},
+      {"label": "C", "text": "Ville"},
+      {"label": "D", "text": "Nature"}
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Comment vous rendez-vous au travail/études ?",
+    "options": [
+      {"label": "A", "text": "Voiture"},
+      {"label": "B", "text": "Transport en commun"},
+      {"label": "C", "text": "À pied"},
+      {"label": "D", "text": "Travail à la maison"}
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Quel est votre plat préféré ?",
+    "options": [
+      {"label": "A", "text": "Riz"},
+      {"label": "B", "text": "Pâtes"},
+      {"label": "C", "text": "Poulet"},
+      {"label": "D", "text": "Autre"}
+    ]
+  },
+  {
+    "id": 19,
+    "text": "Utilisez-vous un abonnement streaming ?",
+    "options": [
+      {"label": "A", "text": "Netflix"},
+      {"label": "B", "text": "Disney+"},
+      {"label": "C", "text": "Plusieurs"},
+      {"label": "D", "text": "Aucun"}
+    ]
+  },
+  {
+    "id": 20,
+    "text": "Quelle est votre couleur préférée ?",
+    "options": [
+      {"label": "A", "text": "Bleu"},
+      {"label": "B", "text": "Rouge"},
+      {"label": "C", "text": "Noir"},
+      {"label": "D", "text": "Autre"}
+    ]
+  },
+  {
+    "id": 21,
+    "text": "Combien de fois par semaine sortez-vous ?",
+    "options": [
+      {"label": "A", "text": "Jamais"},
+      {"label": "B", "text": "1-2 fois"},
+      {"label": "C", "text": "3-4 fois"},
+      {"label": "D", "text": "Plus de 4 fois"}
+    ]
+  },
+  {
+    "id": 22,
+    "text": "Avez-vous déjà voyagé à l'étranger ?",
+    "options": [
+      {"label": "A", "text": "Oui, plusieurs fois"},
+      {"label": "B", "text": "Oui, une fois"},
+      {"label": "C", "text": "Non mais j'aimerais"},
+      {"label": "D", "text": "Non et ça ne m'intéresse pas"}
+    ]
+  },
+  {
+    "id": 23,
+    "text": "Quel est votre moment de la journée préféré ?",
+    "options": [
+      {"label": "A", "text": "Matin"},
+      {"label": "B", "text": "Après-midi"},
+      {"label": "C", "text": "Soir"},
+      {"label": "D", "text": "Nuit"}
+    ]
+  },
+  {
+    "id": 24,
+    "text": "Comment prenez-vous votre café/thé ?",
+    "options": [
+      {"label": "A", "text": "Sans sucre"},
+      {"label": "B", "text": "Un peu de sucre"},
+      {"label": "C", "text": "Beaucoup de sucre"},
+      {"label": "D", "text": "Je ne bois pas ça"}
+    ]
+  },
+  {
+    "id": 25,
+    "text": "Quel est votre jeu vidéo préféré ?",
+    "options": [
+      {"label": "A", "text": "FIFA"},
+      {"label": "B", "text": "Call of Duty"},
+      {"label": "C", "text": "Minecraft"},
+      {"label": "D", "text": "Je ne joue pas"}
+    ]
+  },
+  {
+    "id": 26,
+    "text": "Combien de langues parlez-vous ?",
+    "options": [
+      {"label": "A", "text": "1"},
+      {"label": "B", "text": "2"},
+      {"label": "C", "text": "3"},
+      {"label": "D", "text": "Plus de 3"}
+    ]
+  },
+  {
+    "id": 27,
+    "text": "Quel est votre mode de shopping préféré ?",
+    "options": [
+      {"label": "A", "text": "En magasin"},
+      {"label": "B", "text": "En ligne"},
+      {"label": "C", "text": "Les deux"},
+      {"label": "D", "text": "Je déteste le shopping"}
+    ]
+  },
+  {
+    "id": 28,
+    "text": "Êtes-vous matinal ou nocturne ?",
+    "options": [
+      {"label": "A", "text": "Matinal"},
+      {"label": "B", "text": "Nocturne"},
+      {"label": "C", "text": "Les deux"},
+      {"label": "D", "text": "Ça dépend"}
+    ]
+  },
+  {
+    "id": 29,
+    "text": "Quel type de livre préférez-vous ?",
+    "options": [
+      {"label": "A", "text": "Roman"},
+      {"label": "B", "text": "BD/Manga"},
+      {"label": "C", "text": "Documentaire"},
+      {"label": "D", "text": "Je ne lis pas"}
+    ]
+  },
+  {
+    "id": 30,
+    "text": "Quel temps préférez-vous ?",
+    "options": [
+      {"label": "A", "text": "Soleil"},
+      {"label": "B", "text": "Pluie"},
+      {"label": "C", "text": "Nuageux"},
+      {"label": "D", "text": "Vent"}
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "quizloto",
+  "version": "1.0.0",
+  "description": "QuizLoto - Answer surveys, earn tickets, win prizes!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6",
+    "express-session": "^1.17.3",
+    "node-cron": "^3.0.2"
+  },
+  "keywords": ["quiz", "loto", "saas"],
+  "author": "",
+  "license": "MIT"
+}
