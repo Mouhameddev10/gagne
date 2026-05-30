@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for gagne-6znhbw on 2026-05-30T06:21:08Z
+# fly.toml app configuration file generated for gagne-zed-sq on 2026-05-30T06:52:04Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'gagne-6znhbw'
+app = 'gagne-zed-sq'
 primary_region = 'ams'
 
 [build]
