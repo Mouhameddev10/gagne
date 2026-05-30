@@ -8,11 +8,18 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "sqlite3": "^5.1.6",
     "express-session": "^1.17.3",
-    "node-cron": "^3.0.2"
+    "node-cron": "^3.0.2",
+    "sqlite3": "^5.1.6"
   },
-  "keywords": ["quiz", "loto", "saas"],
+  "keywords": [
+    "quiz",
+    "loto",
+    "saas"
+  ],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.10"
+  }
 }
